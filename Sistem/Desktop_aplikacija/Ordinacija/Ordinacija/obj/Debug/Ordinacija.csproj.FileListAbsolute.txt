@@ -1,0 +1,14 @@
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\bin\Debug\Ordinacija.exe.config
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\bin\Debug\Ordinacija.exe
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\bin\Debug\Ordinacija.pdb
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.csprojAssemblyReference.cache
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.Login.resources
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.Properties.Resources.resources
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.csproj.GenerateResource.cache
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.exe
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.pdb
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.AdminMod.resources
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.LjekarMod.resources
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Enes\Documents\Projects\IS-Ordinacije\Sistem\Desktop_aplikacija\Ordinacija\Ordinacija\obj\Debug\Ordinacija.csproj.CopyComplete
